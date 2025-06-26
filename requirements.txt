@@ -1,0 +1,9 @@
+# `To run the code(app.py) successfully,
+I have installed the following Python  
+Libraries`
+
+fastapi
+uvicorn
+openai
+youtube-transcript-api
+requests
