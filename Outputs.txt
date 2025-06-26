@@ -1,0 +1,14 @@
+✅ Positive Output (Successful Summary)
+
+{
+  "topic_name": "Tax Implications of Flipping a Home",
+  "topic_summary": "The video discusses the varying tax implications of flipping a house and distinguishes between it as a short-term investment and a continuous business, as well as the difference in tax rates applied for each."
+}
+
+
+
+❌ Negative Output (Graceful Error Handling)
+
+{
+  "Error": "Transcript not found. This may happen if the video has no captions or is restricted."
+}
