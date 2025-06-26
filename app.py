@@ -9,7 +9,7 @@ from fastapi import FastAPI
 app= FastAPI()
 
 # Your OpenRouter API key (replace this with your actual key)
-API_KEY = "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"
+API_KEY = "OPENEROUTER API KEY"
 
 # Choose a free model (like "mistralai/mistral-7b-instruct" or "meta-llama/llama-3-8b-instruct")
 MODEL = "mistralai/mistral-7b-instruct"
