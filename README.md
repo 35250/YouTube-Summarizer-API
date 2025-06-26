@@ -47,13 +47,13 @@ This API has a few usage limitations due to the current implementation and platf
 ## ✅ Working Example
 
 **Video URL:** `https://youtube.com/shorts/DEuIqiWCG6M?si=Atd83GPhlWTGSZlF`
-📸 `screenshots/success_output.png` – working result
+📸 `Sample_Output_Success.jpg`
 
 ---
 
 ## ❌ Sample Error Output
 
-📸 `screenshots/error_output.png` – shows graceful error when a video without captions is used  
+📸 `Sample_Output_Error.jpg` – shows graceful error when a video without captions is used  
 This proves the limitation is due to video content, not the code.
 
 ---
