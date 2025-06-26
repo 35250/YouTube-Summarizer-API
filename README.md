@@ -46,7 +46,7 @@ This API has a few usage limitations due to the current implementation and platf
 
 ## ✅ Working Example
 
-**Video URL:** `https://www.youtube.com/watch?v=your-working-video-link`  
+**Video URL:** `https://youtube.com/shorts/DEuIqiWCG6M?si=Atd83GPhlWTGSZlF`
 📸 `screenshots/success_output.png` – working result
 
 ---
