@@ -92,9 +92,9 @@ I’ve shared this project for recruiters and collaborators to view my learning,
 
 ## 🧑‍💻 Author
 **Ayan Dey**  
-B.Tech CSE (AI/ML), 2nd Year  LinkedIn: (www.linkedin.com/in/ayandey212105242)
-GitHub: (https://github.com/35250) 
-
+B.Tech CSE (AI/ML), 2nd Year  
+🔗 [LinkedIn](https://linkedin.com/in/ayandey212105242)  
+💻 [GitHub](https://github.com/35250)
 
 ---
 
